@@ -1,0 +1,10 @@
+.artwork {
+    background-image: url("lake.jpg");
+    background-repeat: no-repeat;
+    height: 550px;
+    background-size: cover;
+}
+.form {
+    padding-top: 20px;
+    margin-left: 10px;
+}
